@@ -5,39 +5,31 @@
 <div id="about me" align="left">
   <h3>✨ About me</h3>
     - 🔭 I’m currently working on the Python Modules<br>
-    - 🌱 I’m currently learning Python
+    - 🌱 I’m currently learning Python language
 </div>
 
 <div id="contacts" align="right">
   <h4>🔗 Connect with me:</h4>
-  <a href="https://linkedin.com/in/noémie-pillet-aa152a270">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:noemiepi29@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Medium Badge"/>
-  </a>
+
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noémie-pillet-aa152a270)
+  [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noemiepi29@gmail.com)
 </div>
 
 <hr>
 
 <div id="stats" align="center">
   <h3>📊 Github stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=noemiepi&show_icons=true&theme=rose_pine&hide_rank=true" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noemiepi&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noemiepi&theme=tokyonight&hide_border=false" alt="Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noemiepi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
   <br>
 </div>
 
 <div id="Languages & Tools" align="center">
   <br>
   <h3>💻 Languages & Tools</h3>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c"/>&nbsp;
-      <img src="https://skillicons.dev/icons?i=py"/>&nbsp;
-      <img src="https://skillicons.dev/icons?i=git"/>&nbsp;
-      <img src="https://skillicons.dev/icons?i=github"/>&nbsp;
-      <img src="https://skillicons.dev/icons?i=vscode"/>
-    </a>
-    <br>
+  
+  [![Languages & Tools](https://skillicons.dev/icons?i=c,py,github,vscode)](https://skillicons.dev)
+  <br>
 </div>
 
 <hr>
@@ -56,12 +48,10 @@
     <h4>Circle 2:</h4>
   <p><a href="https://github.com/noemiepi/push_swap">push_swap</a> <br>
         &emsp;A program that will sort values as fast as possible <br> <br>
-    <!--
      <a href="https://github.com/noemiepi/Python-Modules">Python-Modules</a> <br>
         &emsp;A serie of modules to learn the basis of the python language <br> <br>
-    -->
 </div>
 
 <div id="modified" align="right">
-  <i>☀️ Last modified: 23/03/2026</i>
+  <i>☀️ Last modified: 25/03/2026</i>
 </div>
