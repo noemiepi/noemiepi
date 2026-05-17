@@ -1,11 +1,13 @@
 <div id="header" align="center">
   <h1>Hey everyone!</h1>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=noemiepi&color=839958" alt="noemiepi" />
 </div>
 
 <div id="about me" align="left">
   <h3>✨ About me</h3>
-    - 🔭 I’m currently working on 42's Common Core projects<br>
-    - 🌱 I’m currently learning to code in Python and C
+    &emsp;- 🔭 I’m currently working on 42's Common Core projects <br>
+    &emsp;- 🌱 I’m learning how to code in Python and C
 </div>
 
 <div id="contacts" align="right">
@@ -19,15 +21,17 @@
 
 <div id="stats" align="center">
   <h3>📊 Github stats</h3>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=noemiepi&theme=tokyonight&hide_border=false" alt="Streak"/>
-    <img src="https://github-readme-stats-ten-pi-74.vercel.app/api/top-langs/?username=noemiepi&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=noemiepi&theme=blueberry&hide_border=false" alt="Streak"/>
+  <br>
+    <img src="https://github-readme-stats-ten-pi-74.vercel.app/api/top-langs/?username=noemiepi&layout=compact&theme=blueberry&hide_border=false" alt="Top Languages"/>
   <br>
 </div>
 
 <div id="Languages & Tools" align="center">
   <h3>💻 Languages & Tools</h3>
   
-  [![Languages & Tools](https://skillicons.dev/icons?i=c,py,github,vscode,linux)](https://skillicons.dev)
+  [![Languages](https://skillicons.dev/icons?i=c,py)](https://skillicons.dev) <br>
+  [![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux)](https://skillicons.dev)
   <br>
 </div>
 
@@ -66,6 +70,12 @@
   </p>
 </div>
 
+<hr>
+
 <div id="modified" align="right">
-  <i>☀️ Last modified: 11/04/2026</i>
+  <i>☀️ Last modified: 17/05/2026</i>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=839958&height=100&section=footer" />
 </div>
