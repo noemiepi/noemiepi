@@ -1,11 +1,14 @@
 <div id="header" align="center">
-  <img src="assets/header.png" style="height: 200px; width: 100%;">
+  <p align="center">
+    <img src="assets/header.jpeg" alt="Banner" sheight="200" width="100%">
+  </a>
+</p>
   <h1>Hey everyone!<br>
   I'm Noémie</h1>
 </div>
 
 <div id="about me" align="left">
-  <img align="right" alt="image" width="200" src="assets/moon.png">
+  <img align="right" width="200" src="assets/moon.png">
   <h3>✨ About me</h3>
     <p>
       &emsp;<img src="https://komarev.com/ghpvc/?username=noemiepi&color=839958" alt="noemiepi" />
@@ -82,56 +85,57 @@
 <hr>
 
 <div id="42 Cursus" align="left">
-  <h3>🌱 42 Cursus</h3>
+  <h3>🚀 42 Cursus</h3>
     <h4>Circle 0:</h4>
       <p>
         <ul>
-          <li> <b> <a href="https://github.com/noemiepi/libft">Libft:</a> &nbsp;&nbsp;🍀 125/100 </b> </li>
+          <li> <b> <a href="https://github.com/noemiepi/libft">Libft:</a> &nbsp;&nbsp;⭐ 125/100 </b> </li>
             &emsp;Creation of my first library in C 
         </ul>
       </p>
     <h4>Circle 1:</h4>
       <p>
         <ul>
-          <li> <b> <a href="https://github.com/noemiepi/ft_printf">ft_printf:</a> &nbsp;&nbsp;🍀 100/100 </b> </li>
+          <li> <b> <a href="https://github.com/noemiepi/ft_printf">ft_printf:</a> &nbsp;&nbsp;⭐ 100/100 </b> </li>
             &emsp;Recoding the printf function in C
-          <li> <b> <a href="https://github.com/noemiepi/get_next_line">get_next_line:</a> &nbsp;&nbsp;🍀 120/100 </b> </li>
+          <li> <b> <a href="https://github.com/noemiepi/get_next_line">get_next_line:</a> &nbsp;&nbsp;⭐ 120/100 </b> </li>
             &emsp;A program that reads a .txt file line by line
-          <li> <b> <a href="https://github.com/noemiepi/Born2beRoot">Born2beRoot:</a>&nbsp;&nbsp;🍀 115/100 </b> </li>
+          <li> <b> <a href="https://github.com/noemiepi/Born2beRoot">Born2beRoot:</a>&nbsp;&nbsp;⭐ 115/100 </b> </li>
             &emsp;Setting up my first Virtual Machine (VM)
         </ul>
       </p>
     <h4>Circle 2:</h4>
       <p>
         <ul>
-          <li> <b> <a href="https://github.com/noemiepi/push_swap">push_swap:</a> &nbsp;&nbsp;🍀 100/100 </b> </li>
+          <li> <b> <a href="https://github.com/noemiepi/push_swap">push_swap:</a> &nbsp;&nbsp;⭐ 100/100 </b> </li>
             &emsp;A program that will sort values as fast as possible
-          <li> <b> <a href="https://github.com/noemiepi/Python-Modules">Python-Modules:</a> &nbsp;&nbsp;🍀 100/100 </b> </li>
+          <li> <b> <a href="https://github.com/noemiepi/Python-Modules">Python-Modules:</a> &nbsp;&nbsp;⭐ 100/100 </b> </li>
             &emsp;A serie of modules to learn the basis of the Python language
-          <li> <b> <a href="https://github.com/noemiepi/A-Maze-ing">A-Maze-ing:</a> &nbsp;&nbsp;🍀 121/100 </b> </li>
+          <li> <b> <a href="https://github.com/noemiepi/A-Maze-ing">A-Maze-ing:</a> &nbsp;&nbsp;⭐ 121/100 </b> </li>
             &emsp;A program that randomly generates a solvable maze (Group project with <a href="https://github.com/Fredrnx">frrenaux</a>)
         </ul>
       </p>
     <h4>Circle 3:</h4>
       <p>
         <ul>
-          <li> <b> <a href="https://github.com/noemiepi/Call_Me_Maybe">Call Me Maybe:</a> &nbsp;&nbsp;🍀 115/100 </b> </li>
+          <li> <b> <a href="https://github.com/noemiepi/Call_Me_Maybe">Call Me Maybe:</a> &nbsp;&nbsp;⭐ 115/100 </b> </li>
             &emsp;A first introduction to coding an AI by learning function calling with a LLM 
+          <li> <b> <a href="https://github.com/noemiepi/Codexion">Codexion:</a> &nbsp;&nbsp;⭐ .../100 </b> </li>
+            &emsp;A discovery of what threads and mutexes are and learning how they work
         </ul>
       </p>
     <h4>Circle 4:</h4>
       <p>
         <ul>
-          <li> <b> <a href="https://github.com/bebejamin1/Pacman">Pac-Man:</a> &nbsp;&nbsp;☘️ .../100 </b> </li>
+          <li> <b> <a href="https://github.com/noemiepi/Pac-Man">Pac-Man:</a> &nbsp;&nbsp;⭐ 100/100 </b> </li>
             &emsp;A recreation of the game Pac-Man
-            (Group project with <a href="https://github.com/bebejamin1">bebejamin1</a>)
+            (Group project with <a href="https://github.com/bebejamin1">bbeaurai</a>)
         </ul>
       </p>
-
 <hr>
 
 <div id="date" align="right">
-  <i>🪐 Last modified: <b>24/07/2026</b></i>
+  <i>🪐 Last modified: <b>31/08/2026</b></i>
 </div>
 
 <div id="bottom page" align="center">
@@ -143,5 +147,5 @@
   </p>
 </div>
 <div align="center">
-    <img src="assets/footer.png" style="height: 25px; width: 100%;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6495ed&height=100&section=footer" />
 </div>
