@@ -120,8 +120,10 @@
         <ul>
           <li> <b> <a href="https://github.com/noemiepi/Call_Me_Maybe">Call Me Maybe:</a> &nbsp;&nbsp;⭐ 115/100 </b> </li>
             &emsp;A first introduction to coding an AI by learning function calling with a LLM 
-          <li> <b> <a href="https://github.com/noemiepi/Codexion">Codexion:</a> &nbsp;&nbsp;⭐ .../100 </b> </li>
+          <li> <b> <a href="https://github.com/noemiepi/Codexion">Codexion:</a> &nbsp;&nbsp;⭐ 100/100 </b> </li>
             &emsp;A discovery of what threads and mutexes are and learning how they work
+          <li> <b> <a href="https://github.com/noemiepi/Fly-in">Fly-in:</a> &nbsp;&nbsp;⭐ 125/100 </b> </li>
+            &emsp;A program that uses a path-finding algorithm to navigate drones from start to end
         </ul>
       </p>
     <h4>Circle 4:</h4>
@@ -135,7 +137,7 @@
 <hr>
 
 <div id="date" align="right">
-  <i>🪐 Last modified: <b>31/08/2026</b></i>
+  <i>🪐 Last modified: <b>26/09/2026</b></i>
 </div>
 
 <div id="bottom page" align="center">
