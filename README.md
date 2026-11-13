@@ -139,7 +139,7 @@
             (Group project with <a href="https://github.com/bebejamin1">bbeaurai</a>)
           <li> <b> <a href="https://github.com/noemiepi/NetPractice">NetPractice:</a> &nbsp;&nbsp;⭐ 100/100 </b> </li>
             &emsp;An introduction to computer networking fundamentals
-          <li> <b> <a href="https://github.com/noemiepi/RAG-Against-the-Machines">RAG Against the Machines:</a> &nbsp;&nbsp;⭐ .../100 </b> </li>
+          <li> <b> <a href="https://github.com/noemiepi/RAG_against_the_machine">RAG Against the Machines:</a> &nbsp;&nbsp;⭐ .../100 </b> </li>
             &emsp;A program which retrieves the evidence from given data, then makes a small model answer from it
         </ul>
       </p>
