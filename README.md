@@ -14,7 +14,8 @@
       &emsp;<img src="https://komarev.com/ghpvc/?username=noemiepi&color=839958" alt="noemiepi" />
       <br><br>
       &emsp;- &nbsp;🔭 I’m currently working on 42's Common Core projects<br>
-      &emsp;- &nbsp;📚 I’m currently learning to code in Python and C
+      &emsp;- &nbsp;📚 I’m currently learning to code in Python and C<br>
+      <br><br><br>
     </p>
 </div>
 
@@ -59,6 +60,10 @@
 
   <table>
     <tr>
+      <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=godot" width="48" height="48" alt="VSCode" />
+      <br>Godot
+      </td>
       <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
@@ -132,12 +137,30 @@
           <li> <b> <a href="https://github.com/noemiepi/Pac-Man">Pac-Man:</a> &nbsp;&nbsp;⭐ 100/100 </b> </li>
             &emsp;A recreation of the game Pac-Man
             (Group project with <a href="https://github.com/bebejamin1">bbeaurai</a>)
+          <li> <b> <a href="https://github.com/noemiepi/NetPractice">NetPractice:</a> &nbsp;&nbsp;⭐ 100/100 </b> </li>
+            &emsp;An introduction to computer networking fundamentals
+          <li> <b> <a href="https://github.com/noemiepi/RAG-Against-the-Machines">RAG Against the Machines:</a> &nbsp;&nbsp;⭐ .../100 </b> </li>
+            &emsp;A program which retrieves the evidence from given data, then makes a small model answer from it
         </ul>
       </p>
+</div>
+
+<hr>
+
+<div id="personnal projects" align="right">
+  <h3>🌌 Personnal Projects</h3>
+    <p>
+      <ul>
+        <li> <b> <a href="https://github.com/noemiepi/Haute_Daugue">Haute_Daugue</a> </b> </li>
+          &emsp;42's Game Jam 2026 with the theme 'Barbecue' (Group project with <a href="https://github.com/Overtekk">roandrie</a> and <a href="https://github.com/shadox254">rruiz</a> - team Place_Holder)
+      </ul>
+    </p>
+</div>
+
 <hr>
 
 <div id="date" align="right">
-  <i>🪐 Last modified: <b>26/09/2026</b></i>
+  <i>🪐 Last modified: <b>13/11/2026</b></i>
 </div>
 
 <div id="bottom page" align="center">
@@ -148,6 +171,7 @@
     </a>
   </p>
 </div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6495ed&height=100&section=footer" />
 </div>
